@@ -13,6 +13,7 @@ import { ProgressComponent } from './pages/progress/progress.component';
 import { Grafica1Component } from './pages/grafica1/grafica1.component';
 import { NopagefoundComponent } from './pages/nopagefound/nopagefound.component';
 import { AppRoutingModule } from './app-routing.module';
+import { PagesComponent } from './pages/pages.component';
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { AppRoutingModule } from './app-routing.module';
     ProgressComponent,
     Grafica1Component,
     NopagefoundComponent,
+    PagesComponent,
 
   ],
   imports: [
